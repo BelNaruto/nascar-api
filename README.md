@@ -584,7 +584,7 @@ curl -X GET "https://api.example.com/stats?driverId=4495"
 
 ```sh
 curl -X GET "https://api.example.com/photos?driverId=4495&page=1"
-
+```
 
 ## Commonly Asked Questions
 
